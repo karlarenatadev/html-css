@@ -1,0 +1,25 @@
+@charset "utf-8"
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: rgb(248, 192, 201);
+    font-size: 1em;
+    font-weight: bolder;
+   
+}
+h1 {
+    color: rgb(247, 24, 61);
+}
+h1#principal {
+    text-align: center;
+    background-color: rgb(209, 78, 99);
+    color: white;
+}
+p {
+    font-style: italic;
+    text-decoration: underline;
+    text-align: justify;
+    text-indent: 30px;
+}
