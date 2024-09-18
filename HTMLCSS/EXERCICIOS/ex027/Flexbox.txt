@@ -5,4 +5,5 @@ display: flex;
 flex-direction: row | row-reverse | column | column-reverse;
 flex-wrap: nowrap(padrão) | wrap | wrap-reverse;
 flex-flow: junção de flex-direction + flex-wrap
-justify-content:flex-start| fçex-end | center | space-around | space-between;
+justify-content: flex-start| flex-end | center | space-evenly | space-between | sapce-around; eixo principal
+align-items: stretch | flex-start | flex-end | center ; eixo transversal
