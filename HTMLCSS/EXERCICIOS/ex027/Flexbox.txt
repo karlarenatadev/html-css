@@ -1,0 +1,8 @@
+Flexbox
+
+display: flex;
+
+flex-direction: row | row-reverse | column | column-reverse;
+flex-wrap: nowrap(padrão) | wrap | wrap-reverse;
+flex-flow: junção de flex-direction + flex-wrap
+justify-content:flex-start| fçex-end | center | space-around | space-between;
