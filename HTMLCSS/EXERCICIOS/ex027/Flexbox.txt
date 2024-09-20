@@ -14,4 +14,4 @@ align-content: alinha os itens no eixo transversal quando estão empacotados; st
 todo item em flexbox que está no pai tem order 0 por padrão
 
 order
-align-self
+align-self:para itens | flex-start | center | flex-end
