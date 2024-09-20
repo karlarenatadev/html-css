@@ -5,5 +5,6 @@ display: flex;
 flex-direction: row | row-reverse | column | column-reverse;
 flex-wrap: nowrap(padrão) | wrap | wrap-reverse;
 flex-flow: junção de flex-direction + flex-wrap
-justify-content: flex-start| flex-end | center | space-evenly | space-between | sapce-around; eixo principal
-align-items: stretch | flex-start | flex-end | center ; eixo transversal
+justify-content: flex-start| flex-end | center | space-evenly | space-between | sapce-around; alinha no eixo principal
+align-items: stretch | flex-start | flex-end | center ; alinha no eixo transversal
+align-content: alinha os itens no eixo transversal quando estão empacotados; stretch | flex-start | flex-end | center | space-between| space-around
