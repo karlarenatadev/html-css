@@ -15,3 +15,5 @@ todo item em flexbox que está no pai tem order 0 por padrão
 
 order
 align-self:para itens | flex-start | center | flex-end
+
+flex-basis: auto (padrão) | 200px -- se tudo couber é uma medida certa, se não couber ele começa a quebrar
