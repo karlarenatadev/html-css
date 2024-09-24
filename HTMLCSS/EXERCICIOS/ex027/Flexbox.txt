@@ -13,7 +13,11 @@ align-content: alinha os itens no eixo transversal quando estão empacotados; st
 
 todo item em flexbox que está no pai tem order 0 por padrão
 
+Aplicadas aos items: 
 order
-align-self:para itens | flex-start | center | flex-end
+align-self: para itens | flex-start | center | flex-end
 
 flex-basis: auto (padrão) | 200px -- se tudo couber é uma medida certa, se não couber ele começa a quebrar
+
+flex-grow - cresce (padrão 0) 
+flex-shrik - diminuir (padrão 1) 
